@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AudioStream</string>
+    <string name="prompt">Pick a Station</string>
+</resources>
